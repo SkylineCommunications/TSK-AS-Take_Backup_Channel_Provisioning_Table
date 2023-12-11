@@ -1,0 +1,27 @@
+﻿<DMSScript options="272">
+	<Name>Take Backup Channel Provisioning Table</Name>
+	<Description>
+	</Description>
+	<Type>Automation</Type>
+	<Author>Skyline</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder>Tata</Folder>
+	<Protocols>
+		<Protocol id="1">
+			<Description>Provision</Description>
+			<Name>Tata Sky India Limited MCR DB Provision</Name>
+			<Version>Production</Version>
+			<DefaultElement>10002/2073</DefaultElement>
+		</Protocol>
+	</Protocols>
+	<Memory>
+	</Memory>
+	<Parameters>
+	</Parameters>
+	<Script>
+		<Exe id="2" type="set">
+			<Param protocol="1">120</Param>
+			<Value>1</Value>
+		</Exe>
+	</Script>
+</DMSScript>
