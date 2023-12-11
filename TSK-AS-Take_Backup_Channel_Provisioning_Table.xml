@@ -1,11 +1,11 @@
-﻿<DMSScript options="272">
-	<Name>Take Backup Channel Provisioning Table</Name>
-	<Description>
-	</Description>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DMSScript options="272">
+	<Name>TSK-AS-Take_Backup_Channel_Provisioning_Table</Name>
+	<Description></Description>
 	<Type>Automation</Type>
-	<Author>Skyline</Author>
+	<Author>YTL</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder>Tata</Folder>
+	<Folder></Folder>
 	<Protocols>
 		<Protocol id="1">
 			<Description>Provision</Description>
